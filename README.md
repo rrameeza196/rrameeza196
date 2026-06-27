@@ -10,7 +10,7 @@ Lahore, Pakistan · [Portfolio](https://rameeza-portfolio.vercel.app) · [Linked
 
 <br/>
 
-Computer Engineering student at ITU Lahore (graduating 2026), focused on full-stack web development and applied machine learning. I build production-grade web applications with React, Next.js, and Node.js, and design computer vision systems using TensorFlow, OpenCV, and MediaPipe. Currently a Teaching Assistant for AI & Machine Learning at ITU Lahore.
+Computer Engineer at ITU Lahore (graduating 2026), focused on full-stack web development and applied machine learning. I build production-grade web applications with React, Next.js, and Node.js, and design computer vision systems using TensorFlow, OpenCV, and MediaPipe. Currently a Teaching Assistant for AI & Machine Learning at ITU Lahore.
 
 <br/>
 
